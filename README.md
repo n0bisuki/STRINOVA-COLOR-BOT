@@ -159,7 +159,7 @@ def get_color_bounds(color: str) -> tuple:
 
 **Discord Support Link:**
 ```python
-DISCORD = "https://discord.gg/j7Faupsf4h"
+DISCORD = "https://discord.gg/tPHXyMZmKh"
 ```
 
 ---
@@ -393,7 +393,7 @@ See `requirements.txt` for all dependencies.
 
 Need help? Have questions? Join our community Discord server:
 
-🔗 **Discord Server:** https://discord.gg/j7Faupsf4h
+🔗 **Discord Server:** https://discord.gg/tPHXyMZmKh
 
 Feel free to ask questions about:
 - Computer vision and image processing
