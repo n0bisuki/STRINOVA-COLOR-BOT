@@ -13,7 +13,7 @@ Use of this software to cheat in online games or to gain unfair advantages in mu
 STRINOVA is an advanced Python-based system demonstrating sophisticated game enhancement techniques. It showcases professional-grade architecture with modular configuration management, multi-threaded processing, computer vision integration, and hardware automation—all designed for **educational and research purposes only**.
 
 **If you need any support or have questions, please join our Discord server:**  
-🔗 **Discord:** https://discord.gg/j7Faupsf4h
+🔗 **Discord:** https://discord.gg/tPHXyMZmKh
 
 ---
 
